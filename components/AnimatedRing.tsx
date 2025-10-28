@@ -55,8 +55,8 @@ const AnimatedRing: React.FC = () => {
   return (
     <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
       <svg
-        width="800"
-        height="800"
+        width="100%"
+        height="100%"
         viewBox="-400 -400 800 800"
         className="transform-gpu"
       >
